@@ -13,7 +13,7 @@ Atualmente estou aprendendo:
 - 🛠️ **Ferramentas:** [VS Code, Git, Jupyter Notebook]
 
 ## 📫 Como me encontrar
-- GitHub: [github.com/seu-usuario](https://github.com/glhrm)
+- GitHub: [github.com/glhrm](https://github.com/glhrm)
 
 ---
 
