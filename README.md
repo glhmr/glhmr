@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Guilherme! 👋
 
-<!--
-**glhmr/glhmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta da tecnologia, sempre buscando aprender e evoluir no mundo da programação. Atualmente, estou estudando e desenvolvendo minhas habilidades em diversas tecnologias.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 📚 Sempre aprendendo e explorando novas tecnologias.
+- 💡 Gosto de desafios e de resolver problemas com código.
+- 🔭 Você pode conferir meus projetos no meu [GitHub](https://github.com/glhrm)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias e Ferramentas
+Atualmente estou aprendendo:
+- 🖥️ **Linguagens e frameworks:** [JavaScript, Python, HTML]
+- 🛠️ **Ferramentas:** [VS Code, Git, Jupyter Notebook]
+
+## 📫 Como me encontrar
+- GitHub: [github.com/seu-usuario](https://github.com/glhrm)
+
+---
+
+Sempre buscando aprender e evoluir! 🚀
