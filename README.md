@@ -14,7 +14,8 @@ Atualmente estou aprendendo:
 
 ## 📫 Como me encontrar
 - GitHub: [github.com/glhrm](https://github.com/glhrm)
-- LinkedIn: [https://www.linkedin.com/in/guilherme-henrique-462392192/]
+- LinkedIn: [https://www.linkedin.com/in/guilherme-henrique-462392192/](Linkedin)
+
 
 ---
 
